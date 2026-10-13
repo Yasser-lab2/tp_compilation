@@ -1,0 +1,28 @@
+# Build outputs
+Tp1/tp1_scanner
+Tp1/scanner_reels
+Tp2/tp2_parser
+*.o
+a.out
+
+# Images are kept locally as course/photo references and are not published.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tif
+*.tiff
+*.ico
+*.avif
+*.svg
+
+# Local course/reference PDFs
+*.pdf
+
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
